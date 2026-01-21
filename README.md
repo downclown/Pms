@@ -1,0 +1,1 @@
+The Pharmacy Management System is a desktop-based application developed using C#(WinForms) and SQL Server Management Studio. This project is designed to simplify and automate the daily operations of a pharmacy- such as managing medicines, handling sales and maintaining user records. The system reduces manual work, improves accuracy, and ensures efficient pharmacy management.
