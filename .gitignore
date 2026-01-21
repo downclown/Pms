@@ -1,5 +1,23 @@
+# Visual Studio
+.vs/
 bin/
 obj/
-.vs/
-*.exe
-*.pdb
+*.user
+*.suo
+*.cache
+*.log
+
+# Rider / VSCode
+.idea/
+.vscode/
+
+# OS files
+Thumbs.db
+desktop.ini
+
+# SQL local files / backups
+*.mdf
+*.ldf
+
+# NuGet packages (optional)
+packages/
